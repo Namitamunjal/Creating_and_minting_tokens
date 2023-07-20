@@ -1,0 +1,9 @@
+{
+  "name":"Remix",
+  "version":" 0.6.16",
+  "main":"index.js",
+  "license":"MIT",
+  "devDependencies": {
+    "hardhat": "^2.17.0"
+  }
+}

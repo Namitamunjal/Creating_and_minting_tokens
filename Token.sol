@@ -1,5 +1,4 @@
 
-
 //For this project, you will write a smart contract to create your own token on a local HardHat network. 
 //Once you have your contract, you should be able to use remix to interact with it.
 // From remix, the contract owner should be able to mint tokens to a provided address. 
